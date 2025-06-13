@@ -1,2 +1,6 @@
 # python
- Python coding
+#Python coding
+#datastructures
+#control statments 
+#Loops
+#functions
