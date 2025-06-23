@@ -4,3 +4,4 @@
 #control statments 
 #Loops
 #functions
+#numpy
